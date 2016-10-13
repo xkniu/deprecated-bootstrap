@@ -1,4 +1,4 @@
-# Bootstrap ![Latest version](https://img.shields.io/badge/version-1.0.0--SNAPSHOT-yellowgreen.svg)
+# Bootstrap ![Latest version](https://img.shields.io/badge/version-1.1.0--SNAPSHOT-yellowgreen.svg)
 
 Bootstrap provides common parent pom or bom to start a application quickly.
 
