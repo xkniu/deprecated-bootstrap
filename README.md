@@ -1,4 +1,8 @@
-# Bootstrap ![Latest version](https://img.shields.io/badge/version-1.2.0-yellowgreen.svg)
+# Bootstrap ![Latest version](https://img.shields.io/badge/version-1.2.0-yellowgreen.svg) ![Status](https://img.shields.io/badge/maintained-no!%20(since%202018--09)-red.svg)
+
+This project is deprecated, because i find it's not convenient to use a local-only dependency (i don't want to release it to a central repo), when you want to release your project, you have to remove the unnessesary local spring parent/bom. And it's also hard to keep all the components up to date which may not be used in a long term. So i decide to not maintain it at all, just as a template for reference. 
+
+---
 
 Bootstrap provides common parent pom or bom to start a application quickly.
 
